@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "lectio",
-    "slug": "lectio",
+    "slug": "lecito",
     "owner": "tylermazurek",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -44,7 +44,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "5e5917a5-be51-4523-a658-b4565340d2c5"
+        "projectId": "a427e127-52f4-4427-b43c-c6213ac86873"
       }
     }
   }
